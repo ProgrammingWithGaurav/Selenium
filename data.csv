@@ -1,0 +1,325 @@
+title,date,desc,programming_language
+"
+        Selenium","Jul 15, 2024","
+          learning selenium for the first time
+        ",HTML
+"
+        LinkkedIn2.0","Jul 11, 2024","
+          LinkedIn2.0 with MongoDB, Typescript, Nextjs.
+        ",TypeScript
+"
+        Flutter_Notes_App","Feb 4, 2024","
+          learning to make notes app with flutter and hive
+        ",C++
+"
+        FlutterChatApp","Jan 27, 2024","
+          Learning to make chat app with flutter
+        ",Dart
+"
+        FirstFlutterApp","Jan 21, 2024","
+          Learning Flutter
+        ",C++
+"
+        FlutterGoogleSignIn","Jan 14, 2024","
+          Learning Flutter Firebase Authentication
+        ",C++
+"
+        BookReommenderSystem","Dec 29, 2023","
+          Learning to Create Book Reommender system
+        ",Jupyter Notebook
+"
+        Customer_Rating_ML_API","Dec 21, 2023","
+          API to get the rating of the customer (NLP Project)
+        ",Python
+"
+        PythonFastApi","Dec 16, 2023","
+          Learning FastApi Python
+        ",HTML
+"
+        msdocs-python-fastapi-quickstart","Dec 16, 2023","
+          This is a minimal FastAPI app that can be deployed to Azure App Service on Linux.
+        ",HTML
+"
+        Portfolio","Jun 5, 2024","
+          Portfolio website
+        ",TypeScript
+"
+        Blog-app","Nov 13, 2023","
+          Blog app with ReactJs and Firebase
+        ",Jupyter Notebook
+"
+        FruitsClassification","Nov 13, 2023","
+          Fruits Classification
+        ",Jupyter Notebook
+"
+        MultipleDiseasePredictionML","Nov 4, 2023","
+          MultipleDiseasePrediction using ML
+        ",Python
+"
+        DogVsCatDL","Nov 4, 2023","
+          Dog Vs Cat Prediction
+        ",Jupyter Notebook
+"
+        FirstMLAPI","Nov 3, 2023","
+          First Machine Learning Api
+        ",Jupyter Notebook
+"
+        FlaskApi","Nov 2, 2023","
+          Flask Api
+        ",Python
+"
+        CarPricePred","Oct 30, 2023","
+          CarPricePred
+        ",Python
+"
+        Youtube2-supabase","Mar 20, 2023","
+          Youtube Clone with Supabase and Tailwindcss NextJs
+        ",JavaScript
+"
+        strapi_learning","Jan 28, 2023","
+          Learning Strapi from CodeWithHarry
+        ",JavaScript
+"
+        Tic-Tac-Toe","Jan 18, 2023","
+          Tic Tac Toe made with html, css and javascript
+        ",JavaScript
+"
+        NLP_Chatbot","Apr 9, 2024","
+          Learning to create chatbot using Dialogflow.
+        ",Python
+"
+        Learning_ML","Apr 2, 2024","
+          This repository contains my ml notebooks (for learning)
+        ",Jupyter Notebook
+"
+        Gemini_AI","Mar 10, 2024","
+          Learning to use Gemini AI python 
+        ",Python
+"
+        Flixify_Movie_App","Mar 8, 2024","
+          Making movie app ""Flixify"" with flutter.
+        ",Dart
+"
+        Movie_TMDB_API","Mar 7, 2024","
+          creating TMDB API for fetching movies and using this APIfor flutter app for ease.
+        ",Python
+"
+        Flutter_Sociall_App","Feb 22, 2024","
+          Making Social App with flutter
+        ",Dart
+"
+        javascript-snakegame","Jan 11, 2023","
+          this is snake game created with html, css and javascript
+        ",JavaScript
+"
+        nextjs-reddit-clone","Oct 22, 2022","
+          Reddit Clone with Nextjs and Supabase (watching Clever Programmer Tuotorial)
+        ",JavaScript
+"
+        NextJs-Whatsapp-Clone","Oct 21, 2022","
+          Whatsapp 2.0 with Nextjs and Firebase
+        ",JavaScript
+"
+        Sanity-Blog","Oct 9, 2022","
+          Simple Blog App with Nextjs and Sanity.io (while learning sanity.io)
+        ",JavaScript
+"
+        Nextjs-Portfolio","Oct 5, 2022","
+          Nextjs-Portfolio
+        ",TypeScript
+"
+        nftdrop-challenge","Apr 1, 2022","
+          nftdrop-challenge
+        ",TypeScript
+"
+        reactjs-youtube-clone","Mar 22, 2022","
+          reactjs-youtube-clone
+        ",JavaScript
+"
+        ButtonUiBuilder","Mar 8, 2022","
+          UiBuilder - Build Ui Fast and get code , with React and ChakraUi
+        ",JavaScript
+"
+        full-stack-chat-app","Mar 1, 2022","
+          Full Stack chat App with React ðŸŽ‰
+        ",JavaScript
+"
+        notes-app-sanity-nexjts","Jan 10, 2023","
+          Notes App with sanity and Nextjs
+        ",JavaScript
+"
+        nextjs-instagram-clone","Feb 10, 2022","
+          NextJs Instagram Clone
+        ",JavaScript
+"
+        first-discord-bot","Feb 4, 2022","
+          My First Discord Bot with NodeJS
+        ",JavaScript
+"
+        instagram-react-native","Feb 3, 2022","
+          Insagram Clone With React Native
+        ",JavaScript
+"
+        react-native-signal-clone","Jan 15, 2022","
+          React Native Signal Clone
+        ",JavaScript
+"
+        crud-sutdent-list-app","Jan 11, 2022","
+          crud student list app
+        ",JavaScript
+"
+        react-native-tesla-clone","Jan 8, 2022","
+          FIRST REACT NATIVE PROJECT: Tesla App Clone with React Native cleverprogrammers
+        ",JavaScript
+"
+        cryptopunk-clone","Jan 3, 2022","
+          CryptoPunk Web3
+        ",JavaScript
+"
+        react-web3-chat-app","Jan 2, 2022","
+          React Metaverse Challenge - Web3 CHat App
+        ",JavaScript
+"
+        nextjs-hulu-clone","Jan 1, 2022","
+          Hulu Clone with NextJs and Tailwindcss
+        ",JavaScript
+"
+        MERN-Whatsapp-Clone","Dec 31, 2021","
+          MERN Whatsapp Clone 
+        ",JavaScript
+"
+        shareme-social-media-app","Jan 5, 2023","
+          Share me social media app with Nextjs Tailwind css and sanity (by Javascript Mastery)
+        ",JavaScript
+"
+        Social_App","Jan 1, 2023","
+          Social app built with NextJs, firebase and tailwindcss
+        ",JavaScript
+"
+        react-admin-dashboard-app","Dec 22, 2022","
+          react-admin-dashboard-app by adrianhajdin 
+        ",JavaScript
+"
+        Supabase-Chat-App","Dec 20, 2022","
+          Live Realtime Chat App with Nextjs and Supabase backend
+        ",JavaScript
+"
+        Notes-App","Dec 14, 2022","
+          Notes App with Supabase and NextjsðŸŒŸðŸ¤©
+        ",JavaScript
+"
+        MERN-iNotebook","Dec 11, 2022","
+          iNotebook - notes on the cloud MERN stack project
+        ",JavaScript
+"
+        notes-taker","Dec 28, 2021","
+          This is a notes app in which one user or many user can edit the same note
+        ",JavaScript
+"
+        amazon-clone","Dec 28, 2021","
+          Amazon Clone wtih reactjs
+        ",JavaScript
+"
+        crud-todo-api","Nov 16, 2021","
+          Nodejs Express Mongoose CRUD Todo Api
+        ",JavaScript
+"
+        firebase-contact-form","Nov 15, 2021","
+          Contact form data submitted in firebase
+        ",HTML
+"
+        article-card-design","Nov 14, 2021","
+          article card component design with css
+        ",CSS
+"
+        dark-theme-landing-page","Nov 12, 2021","
+          Awesome Dark Mode Landing Page made with html and css
+        ",CSS
+"
+        text-to-speech","Nov 10, 2021","
+          Text To Speech with Javascript
+        ",CSS
+"
+        Instagram-card","Nov 7, 2021","
+          Instagram card made with html,css,js
+        ",CSS
+"
+        stats-preview-card","Nov 6, 2021","
+          frontend mentor challenge : stats preview card
+        ",CSS
+"
+        column-card-component","Nov 5, 2021","
+          frontend mentor challenge : 3column card component with html and css 
+        ",CSS
+"
+        order-summary-card","Nov 5, 2021","
+          Frontend mentor challenge : order summary component challenge
+        ",CSS
+"
+        codepen-react","Nov 5, 2021","
+          codepen clone with react.js
+        ",JavaScript
+"
+        Weather-App","Nov 3, 2021","
+          Weather App with reactjs
+        ",JavaScript
+"
+        rock-paper-scissor","Nov 2, 2021","
+          rock paper scissor game made with html,css,js
+        ",CSS
+"
+        iNotebook-api","Nov 2, 2021","
+          iNotebook backend api
+        ",JavaScript
+"
+        Redux-App","Nov 1, 2021","
+          simple redux app for learning.
+        ",JavaScript
+"
+        TextUtils-React","Oct 24, 2021","
+          This is a simple textutils website that i made with react + bootstrap
+        ",JavaScript
+"
+        NewsMonkey-React","Oct 24, 2021","
+          NewsApp made with react js 
+        ",JavaScript
+"
+        Piano","Oct 21, 2021","
+          This is a piano website made with html css and js wiith record functionality
+        ",JavaScript
+"
+        React-Todo-List","Oct 10, 2021","
+          This is a todo-list app that i am making with reactjs and bootstrap
+        ",JavaScript
+"
+        live-todo-app","Oct 4, 2021","
+          This is a todo app that i made wtih html,css,js,firebase
+        ",CSS
+"
+        CodBox","Oct 2, 2021","
+          This is a code box website used to push code.
+        ",JavaScript
+"
+        snapchat-clone","Dec 17, 2021","
+          ReactJS and firebase with camera snapchat-clone 
+        ",JavaScript
+"
+        discord-clone","Dec 7, 2021","
+          Discord clone with reactjs and firebase
+        ",JavaScript
+"
+        Disney-Plus-Clone","Dec 3, 2021","
+          Disney Plus Clone with ReactJS
+        ",JavaScript
+"
+        Tesla-Clone","Nov 26, 2021","
+          Tesla Clone with ReactJS
+        ",JavaScript
+"
+        reactjs-slack-clone","Nov 23, 2021","
+          React JS Slack Clone with firebase
+        ",JavaScript
+"
+        signup-page","Nov 19, 2021","
+          Signup Page with html css and javascript
+        ",CSS
